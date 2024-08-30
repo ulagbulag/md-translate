@@ -1,0 +1,18 @@
+# Dockerfile
+/.dockerignore
+/Dockerfile
+
+# Documents
+/*.md
+/docs
+
+# Git
+/.git
+/.github
+/.gitignore
+
+# IDE
+/.vscode
+
+# Prompts
+/!prompt.md

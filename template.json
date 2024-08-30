@@ -1,0 +1,9 @@
+{
+  "max_tokens": 2048,
+  "messages": [],
+  "model": "gpt-4o",
+  "n": 1,
+  "stop": null,
+  "stream": false,
+  "temperature": 0.7
+}
